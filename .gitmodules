@@ -1,0 +1,3 @@
+[submodule "Photogrammetry"]
+	path = Photogrammetry
+	url = https://github.com/Lypho2012/Photogrammetry.git
